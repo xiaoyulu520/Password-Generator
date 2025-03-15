@@ -7,7 +7,7 @@
 ##地位再装满搜索语法提示
 ```刷新会话。反馈
 # 下载代码
-git clone https://github.com/你的用户名/Password-Generator.git
+git clone https://github.com/xiaoyulu520/Password-Generator.git
 
 # 生成密码（示例）
 abc def ghi jkl mno pqr stu
